@@ -1,27 +1,83 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: steve-icreationslab # Your GitHub organization or username, where this repository lives
+repo: ICL_ServerMonitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+#  - name: Google
+#    url: https://www.google.com
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
+#  - name: Test Broken Site
+#    url: https://thissitedoesnotexist.koj.co
+#  - name: IPv6 test
+#    url: forwardemail.net
+#    port: 80
+#    check: "tcp-ping"
+#    ipv6: true
+
+#  - name: 3eagle.com
+#    url: https://www.3eagle.com
+#    expectedStatusCodes:
+#      - 403
+    
+  - name: DS - AllGreen
+    url: $DS_ALLGREEN
+
+  - name: DS - ICL Main 1 OLD
+    url: $DS_ICL_MAIN_1_OLD
+
+  - name: DS - ICL Main 2 OLD
+    url: $DS_ICL_MAIN_2_OLD
+
+  - name: DS - ICL MAIN 1 NEW
+    url: $DS_ICL_MAIN_1_NEW
+
+  - name: DS - SHF
+    url: $DS_SHF
+
+  - name: DS - KUOKGROUP
+    url: $DS_KUOKGROUP
+
+  - name: ICreationsLab Backup Server
+    url: $ICREATIONSLAB_BACKUP_SERVER
+
+  - name: VPS - EA
+    url: $VPS_EA
+
+  - name: VPS - ICL
+    url: $VPS_ICL
+
+  - name: VPS - OAS
+    url: $VPS_OAS
+
+  - name: VPS - SDF
+    url: $VPS_SDF
+
+  - name: VPS - TET
+    url: $VPS_TET
+
+  - name: VPS-MOBY
+    url: $VPS_MOBY
+
+  - name: VPS-MPP-EU1
+    url: $VPS_MPP_EU1
+
+  - name: VPS-RSAN
+    url: $VPS_RSAN
+
+  - name: VPS-THHG
+    url: $VPS_THHG
+
+  - name: VPS-TIP
+    url: $VPS_TIP
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /ICL_ServerMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -34,3 +90,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+
