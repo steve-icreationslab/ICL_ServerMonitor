@@ -34,11 +34,17 @@ sites:
   - name: DS - ICL MAIN 1 NEW
     url: $DS_ICL_MAIN_1_NEW
 
+  - name: DS - SHBC
+    url: $DS_SHBC
+
   - name: DS - SHF
     url: $DS_SHF
 
   - name: DS - KUOKGROUP
     url: $DS_KUOKGROUP
+
+  - name: iCreations - VPS PLESK Doverpark
+    url: $ICREATIONS_VPS_PLESK_DOVERPARK
 
   - name: ICreationsLab Backup Server
     url: $ICREATIONSLAB_BACKUP_SERVER
