@@ -43,9 +43,6 @@ sites:
   - name: DS - KUOKGROUP
     url: $DS_KUOKGROUP
 
-  - name: iCreations - VPS PLESK Doverpark
-    url: $ICREATIONS_VPS_PLESK_DOVERPARK
-
   - name: ICreationsLab Backup Server
     url: $ICREATIONSLAB_BACKUP_SERVER
 
