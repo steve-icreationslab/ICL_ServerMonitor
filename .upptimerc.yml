@@ -34,6 +34,9 @@ sites:
   - name: DS - ICL MAIN 1 NEW
     url: $DS_ICL_MAIN_1_NEW
 
+  - name: DS - ICL MAIN 2 NEW
+    url: $DS_ICL_MAIN_2_NEW
+
   - name: DS - SHBC
     url: $DS_SHBC
 
