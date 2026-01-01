@@ -4,10 +4,10 @@
     "url": "$DS_ALLGREEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-all-green",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 704,
@@ -15,17 +15,19 @@
     "timeWeek": 687,
     "timeMonth": 704,
     "timeYear": 704,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-01": 1
+    }
   },
   {
     "name": "DS - ICL Main 1 OLD",
     "url": "$DS_ICL_MAIN_1_OLD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-icl-main-1-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -33,7 +35,9 @@
     "timeWeek": 653,
     "timeMonth": 691,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-01": 1
+    }
   },
   {
     "name": "DS - ICL Main 2 OLD",
@@ -148,9 +152,9 @@
     "url": "$ICREATIONSLAB_BACKUP_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-creations-lab-backup-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +163,9 @@
     "timeWeek": 714,
     "timeMonth": 725,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-01": 0
+    }
   },
   {
     "name": "VPS - EA",
