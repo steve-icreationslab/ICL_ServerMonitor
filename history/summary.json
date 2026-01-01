@@ -4,19 +4,19 @@
     "url": "$DS_ALLGREEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-all-green",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 773,
-    "timeWeek": 687,
-    "timeMonth": 704,
-    "timeYear": 704,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "87.10%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 701,
+    "timeDay": 688,
+    "timeWeek": 676,
+    "timeMonth": 701,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2026-01-01": 1
+      "2026-01-01": 186
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$DS_ICL_MAIN_1_OLD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-icl-main-1-old",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 691,
-    "timeDay": 722,
-    "timeWeek": 653,
-    "timeMonth": 691,
-    "timeYear": 691,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "87.13%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 689,
+    "timeDay": 676,
+    "timeWeek": 650,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
-      "2026-01-01": 1
+      "2026-01-01": 185
     }
   },
   {
@@ -153,18 +153,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "i-creations-lab-backup-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "87.15%",
+    "uptimeWeek": "98.16%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 725,
     "timeDay": 818,
     "timeWeek": 714,
     "timeMonth": 725,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2026-01-01": 0
+      "2026-01-01": 185
     }
   },
   {
