@@ -28,9 +28,6 @@ sites:
   - name: DS - ICL Main 1 OLD
     url: $DS_ICL_MAIN_1_OLD
 
-  - name: DS - ICL Main 2 OLD
-    url: $DS_ICL_MAIN_2_OLD
-
   - name: DS - ICL MAIN 1 NEW
     url: $DS_ICL_MAIN_1_NEW
 
