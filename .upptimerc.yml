@@ -34,8 +34,8 @@ sites:
   - name: DS - ICL MAIN 1 NEW
     url: $DS_ICL_MAIN_1_NEW
 
-  - name: DS - ICL MAIN 2 NEW
-    url: $DS_ICL_MAIN_2_NEW
+  - name: DS - ICL MAIN 2
+    url: $DS_ICL_MAIN_2
 
   - name: DS - SHBC
     url: $DS_SHBC
@@ -52,6 +52,9 @@ sites:
   - name: VPS - EA
     url: $VPS_EA
 
+  - name: VPS - Capital
+    url: $VPS_CAPITAL
+
   - name: VPS - ICL
     url: $VPS_ICL
 
@@ -64,19 +67,19 @@ sites:
   - name: VPS - TET
     url: $VPS_TET
 
-  - name: VPS-MOBY
+  - name: VPS - MOBY
     url: $VPS_MOBY
 
-  - name: VPS-MPP-EU1
+  - name: VPS - MPP - EU1
     url: $VPS_MPP_EU1
 
-  - name: VPS-RSAN
+  - name: VPS - RSAN
     url: $VPS_RSAN
 
-  - name: VPS-THHG
+  - name: VPS - THHG
     url: $VPS_THHG
 
-  - name: VPS-TIP
+  - name: VPS - TIP
     url: $VPS_TIP
 
 status-website:
