@@ -4,9 +4,9 @@
     "url": "$DS_ALLGREEN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ds-all-green",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 458,
     "timeMonth": 710,
     "timeYear": 712,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-16": 0
+    }
   },
   {
     "name": "DS - ICL Main 1 OLD",
